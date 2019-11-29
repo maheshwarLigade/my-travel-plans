@@ -1,1 +1,3 @@
-This is repository about the my travel plans in second month of 2020
+# Travel Destinations
+
+A simple app to keep track of destinations I'd like to visit.
